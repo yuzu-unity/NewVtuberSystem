@@ -1,0 +1,85 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6e261def44dd0f14288c0bdd65880f6c, type: 3}
+  m_Name: AliciaBlink
+  m_EditorClassIdentifier: 
+  curve:
+  - blinkCurveTime: 0.35
+    blinkCurve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: 0.40767267
+        outSlope: 0.40767267
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 1
+      - serializedVersion: 3
+        time: 0.11617046
+        value: 0.1434617
+        inSlope: 1.6640805
+        outSlope: 1.6640805
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.40351743
+      - serializedVersion: 3
+        time: 0.25815174
+        value: 0.6008812
+        inSlope: 4.2731934
+        outSlope: 4.2731934
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.4540864
+      - serializedVersion: 3
+        time: 0.41093105
+        value: 0.9791391
+        inSlope: 0.026607918
+        outSlope: 0.026607918
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 1
+      - serializedVersion: 3
+        time: 0.5824848
+        value: 0.6906686
+        inSlope: -2.337597
+        outSlope: -2.337597
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.6632576
+      - serializedVersion: 3
+        time: 0.7337175
+        value: 0.28181237
+        inSlope: -2.3291345
+        outSlope: -2.3291345
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.99346924
+        value: -0.0071697235
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    test: 1

@@ -1,0 +1,144 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 37562b39ff933b245ac2f35d87edbcd6, type: 3}
+  m_Name: Neutral
+  m_EditorClassIdentifier: 
+  m_prefab: {fileID: 0}
+  BlendShapeName: Neutral
+  Preset: 1
+  Values:
+  - RelativePath: face
+    Index: 7
+    Weight: 1
+  - RelativePath: face
+    Index: 8
+    Weight: 1
+  - RelativePath: face
+    Index: 9
+    Weight: 1
+  - RelativePath: face
+    Index: 10
+    Weight: 1
+  - RelativePath: face
+    Index: 11
+    Weight: 1
+  - RelativePath: face
+    Index: 12
+    Weight: 1
+  - RelativePath: face
+    Index: 13
+    Weight: 1
+  - RelativePath: face
+    Index: 14
+    Weight: 1
+  - RelativePath: face
+    Index: 15
+    Weight: 1
+  - RelativePath: face
+    Index: 16
+    Weight: 1
+  - RelativePath: face
+    Index: 17
+    Weight: 1
+  - RelativePath: face
+    Index: 18
+    Weight: 1
+  - RelativePath: face
+    Index: 19
+    Weight: 1
+  - RelativePath: face
+    Index: 20
+    Weight: 1
+  - RelativePath: face
+    Index: 21
+    Weight: 1
+  - RelativePath: face
+    Index: 22
+    Weight: 1
+  - RelativePath: face
+    Index: 23
+    Weight: 1
+  - RelativePath: face
+    Index: 24
+    Weight: 1
+  - RelativePath: face
+    Index: 25
+    Weight: 1
+  - RelativePath: face
+    Index: 26
+    Weight: 1
+  - RelativePath: face
+    Index: 27
+    Weight: 1
+  - RelativePath: face
+    Index: 28
+    Weight: 1
+  - RelativePath: face
+    Index: 29
+    Weight: 1
+  - RelativePath: face
+    Index: 30
+    Weight: 1
+  - RelativePath: face
+    Index: 31
+    Weight: 1
+  - RelativePath: face
+    Index: 32
+    Weight: 1
+  - RelativePath: face
+    Index: 33
+    Weight: 1
+  - RelativePath: face
+    Index: 34
+    Weight: 1
+  - RelativePath: face
+    Index: 35
+    Weight: 1
+  - RelativePath: face
+    Index: 36
+    Weight: 1
+  - RelativePath: face
+    Index: 37
+    Weight: 1
+  - RelativePath: face
+    Index: 38
+    Weight: 1
+  - RelativePath: face
+    Index: 39
+    Weight: 1
+  - RelativePath: face
+    Index: 40
+    Weight: 1
+  - RelativePath: face
+    Index: 41
+    Weight: 1
+  - RelativePath: face
+    Index: 42
+    Weight: 1
+  - RelativePath: face
+    Index: 43
+    Weight: 1
+  - RelativePath: face
+    Index: 44
+    Weight: 1
+  - RelativePath: face
+    Index: 45
+    Weight: 1
+  - RelativePath: face
+    Index: 46
+    Weight: 1
+  - RelativePath: face
+    Index: 47
+    Weight: 1
+  - RelativePath: face
+    Index: 48
+    Weight: 1
+  MaterialValues: []
