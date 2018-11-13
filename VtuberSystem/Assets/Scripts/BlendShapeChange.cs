@@ -19,6 +19,7 @@ public class BlendShapeChange : MonoBehaviour
     private float faceChangeTime;
 
     [Header("オート瞬き")]
+
     //リップシンクから自動取得
     private SkinnedMeshRenderer mesh;
     //瞬きのブレンドシェイプ番号

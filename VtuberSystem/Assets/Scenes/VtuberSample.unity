@@ -1396,7 +1396,7 @@ Camera:
   m_GameObject: {fileID: 534669902}
   m_Enabled: 1
   serializedVersion: 2
-  m_ClearFlags: 1
+  m_ClearFlags: 2
   m_BackGroundColor: {r: 0.19215687, g: 0.3019608, b: 0.4745098, a: 0}
   m_projectionMatrixMode: 1
   m_SensorSize: {x: 36, y: 24}
@@ -1630,9 +1630,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   vRM: {fileID: 900414087}
-  LipsyncOn: 0
   faceCtrlPreset: {fileID: 11400000, guid: 6c4752f9ed86dc64d9bb5ddfcb2593ee, type: 2}
-  faceChangeTime: 0
   blendShapeNum: 24
   blinkPreset: {fileID: 11400000, guid: 2e5aed7134a85244daf02bb3c492fac6, type: 2}
   randomTimeLow: 4
